@@ -12,22 +12,21 @@
 
 
 **Installation**
-
+>[!IMPORTANT]
 >Download the mod jar file from the Releases page.
-
+>
 >Navigate to your `.minecraft` folder.
-
+>
 >Place the `.jar` file in the mods folder.
-
+>
 >Ensure you're using Minecraft Forge 1.8.9 or later.
 
 **Usage**
-
+>[!NOTE]
 >Once in the Rift, the mod will automatically:
-
-
+>
 > Highlight Enigma Souls with a visible glow.
-
+>
 > Provide guidance for specific puzzles encountered in the Rift such as Mirrorverse puzzles.
 
 **Commands**
